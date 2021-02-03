@@ -15,4 +15,4 @@ I am a [Lighthouse Labs](https://www.lighthouselabs.ca/) graduate (February 2020
 
 ## :phone: Contact
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/felix-rioux-sabourin/), or shoot me an email at felixriouxsabourin@gmail.com.
+You can find me on [LinkedIn](https://www.linkedin.com/in/felix-rioux-sabourin/), tweet me [@FelixPriori](https://twitter.com/FelixPriori), or shoot me an email at felixriouxsabourin@gmail.com.
