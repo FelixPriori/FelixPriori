@@ -11,7 +11,7 @@ When there is no pandemic, you can often find me on the dance floor at [Cat's Co
 
 ## :rocket: Web development 
 
-I am a [Lighthouse Labs](https://www.lighthouselabs.ca/) graduate (February 2020 cohort), who has since been working full time as a front-end React.js developer. I am currently trying to hone my React skills by taking Kent C. Dodds' [Epic React](https://epicreact.dev/) workshop, and teaching myself [GraphQL](https://graphql.org/) and [TypeScript](https://www.typescriptlang.org/) through online tutorials and personnal projects.
+I am a [Lighthouse Labs](https://www.lighthouselabs.ca/) graduate (February 2020 cohort), who has since been working full time as a front-end React.js developer. I am currently trying to hone my React skills by taking Kent C. Dodds' [Epic React](https://epicreact.dev/) workshop, and teaching myself [GraphQL](https://graphql.org/) and [TypeScript](https://www.typescriptlang.org/) through online tutorials and personnal projects. You can find my [portfolio](https://www.felixpriori.dev) if you want to look at some of the projects that I've done!
 
 ## :phone: Contact
 
