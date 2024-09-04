@@ -2,17 +2,31 @@
 
 ## :pushpin: Summary
 
-My name is Felix (He/Him), I am a life-long learner and arts-oriented individual who fell in love with programming as a way to create and make ideas real. I am passionate about coding, and I am always looking for opportunities to improve my skills and take part in exciting projects. As a junior front-end developer, I enjoy working in a
-collaborative environment, and I'm hoping to be part of a team making a difference in the web development world.
+My name is Felix (He/Him). With over four years of experience in front-end development, I am a dynamic professional and an arts-oriented individual captivated by the transformative power of programming to bring ideas to life. I have contributed to over a dozen client projects across a wide range of industries, and I always have a passion project ongoing.
+
+I am passionate about coding and always seek new ways to improve my craft. I love to work in tight-knit teams and find extreme satisfaction in finding a great solution to a challenging problem.
 
 ## :video_game: Interests and hobbies
 
-When there is no pandemic, you can often find me on the dance floor at [Cat's Corner Swing Dance School](https://www.catscorner.ca/en/), either teaching a class, or social dancing. I truly enjoy spending time learning about the arts and the culture it emerged from, and I especially love immersing myself in reading up about music. Other practices include: mindfulness, running, and playing videogames.
+You can often find me on the dance floor at [Cat's Corner Swing Dance School](https://www.catscorner.ca/en/), either teaching a class or social dancing. I truly enjoy spending time learning about the arts and the culture it emerged from, and I especially love immersing myself in reading about music. Other practices include mindfulness, running, and playing board and video games.
 
 ## :rocket: Web development 
 
-I am a [Lighthouse Labs](https://www.lighthouselabs.ca/) graduate (February 2020 cohort), who has since been working full time as a front-end React.js developer. I am currently trying to hone my React skills by taking Kent C. Dodds' [Epic React](https://epicreact.dev/) workshop, and teaching myself [GraphQL](https://graphql.org/) and [TypeScript](https://www.typescriptlang.org/) through online tutorials and personnal projects. You can find my [portfolio](https://www.felixpriori.dev) if you want to look at some of the projects that I've done!
+I am a [Lighthouse Labs](https://www.lighthouselabs.ca/) graduate (February 2020 cohort), who has since been working full-time as a front-end React.js developer. I am constantly teaching myself new skills, such as [Next.js](https://nextjs.org/), [GraphQL](https://graphql.org/), [ReactNative](https://reactnative.dev/), and much more through online tutorials and personal projects. You can find in this github most of what I've been working on in my personal time.
+
+## 💻 Work History
+
+### [Webisoft](https://webisoft.com/) (2020 - 2021) - React.js Developer
+__Humble beginnings__.
+After graduating from Lighthouse Labs in April of 2020, I landed a job at Webisoft, a small web agency startup based in Montréal. I was tasked to maintain, and build all of their [React.js](https://react.dev/) applications, which involved working on a long-standing app, an app which was just about ready to launch, and a new app in its infancy. The small size of the company and the different scopes for each projects meant I had to learn how to adapt to a new environment quickly and independently.  
+
+### [Nventive](https://nventive.com/en/) (2021 - 2022) - Web Developer
+__Teamwork__.
+At Nventive, I was part of a larger company with amazing devs to learn from. I worked on various projects, learning new technologies along the way such as [Vue.js](https://vuejs.org/) and very briefly [C#](https://dotnet.microsoft.com/en-us/languages/csharp) / [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet). While there, I had many opportunities to pair program with experienced, senior developers who taught me valuable skills when it comes to teamwork in software development.
+
+### [Nurun](https://www.nurun.com/) (2022 - 2024) - Front-end Developer
+__Flexibility & Quality__. I was recruited at the beginning of 2022 to work for Nurun, a veteran web agency which has a ton of projects from a wide range of industries around the world. I worked for impressive clients such as [Hydro-Québec](https://www.hydroquebec.com/about/), [Cadillac](https://www.cadillaccanada.ca/en), [Grant Thornton](https://www.grantthornton.ca/), and [ADMTL](https://www.admtl.com/) just to name a few. I had to adapt to new technologies, projects, and teams quickly as I was needed to jump from one project to another, while still having to maintain the highest possible code quality. Their emphasis on accessibility had me work closely with a [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) expert. 
 
 ## :phone: Contact
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/felix-rioux-sabourin/), tweet at me [@FelixPriori](https://twitter.com/FelixPriori), or shoot me an email at felixriouxsabourin@gmail.com.
+You can find me on [LinkedIn](https://www.linkedin.com/in/felix-rioux-sabourin/), or [through email](mailto:felixriouxsabourin@gmail.com)
