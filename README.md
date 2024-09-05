@@ -12,13 +12,13 @@ You can often find me on the dance floor at [Cat's Corner Swing Dance School](ht
 
 ## :rocket: Web development 
 
-I am a [Lighthouse Labs](https://www.lighthouselabs.ca/) graduate (February 2020 cohort), who has since been working full-time as a front-end React.js developer. I am constantly teaching myself new skills, such as [Next.js](https://nextjs.org/), [GraphQL](https://graphql.org/), [ReactNative](https://reactnative.dev/), and much more through online tutorials and personal projects. You can find in this github most of what I've been working on in my personal time.
+I am a [Lighthouse Labs](https://www.lighthouselabs.ca/) graduate (February 2020 cohort), who has since been working full-time as a front-end React.js developer. I am constantly teaching myself new skills, such as [Next.js](https://nextjs.org/), [GraphQL](https://graphql.org/), [ReactNative](https://reactnative.dev/), and much more through online tutorials and personal projects. You can find in this GitHub most of what I've been working on in my personal time.
 
 ## 💻 Work History
 
 ### [Webisoft](https://webisoft.com/) (2020 - 2021) - React.js Developer
 __Humble beginnings__.
-After graduating from Lighthouse Labs in April of 2020, I landed a job at Webisoft, a small web agency startup based in Montréal. I was tasked to maintain, and build all of their [React.js](https://react.dev/) applications, which involved working on a long-standing app, an app which was just about ready to launch, and a new app in its infancy. The small size of the company and the different scopes for each projects meant I had to learn how to adapt to a new environment quickly and independently.  
+After graduating from Lighthouse Labs in April 2020, I landed a job at Webisoft, a small web agency startup based in Montréal. I was tasked to maintain, and build all of their [React.js](https://react.dev/) applications, which involved working on a long-standing app, an app which was just about ready to launch, and a new app in its infancy. The small size of the company and the different scopes for each project meant I had to learn how to adapt to a new environment quickly and independently.  
 
 ### [Nventive](https://nventive.com/en/) (2021 - 2022) - Web Developer
 __Teamwork__.
