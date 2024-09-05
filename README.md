@@ -27,6 +27,9 @@ At Nventive, I was part of a larger company with amazing devs to learn from. I w
 ### [Nurun](https://www.nurun.com/) (2022 - 2024) - Front-end Developer
 __Flexibility & Quality__. I was recruited at the beginning of 2022 to work for Nurun, a veteran web agency which has a ton of projects from a wide range of industries around the world. I worked for impressive clients such as [Hydro-Québec](https://www.hydroquebec.com/about/), [Cadillac](https://www.cadillaccanada.ca/en), [Grant Thornton](https://www.grantthornton.ca/), and [ADMTL](https://www.admtl.com/) just to name a few. I had to adapt to new technologies, projects, and teams quickly as I was needed to jump from one project to another, while still having to maintain the highest possible code quality. While still doing the majority of my work in React.js and TypeScript, I had to learn technologies on the fly such as: [GraphQL](https://graphql.org/), [Strapi](https://strapi.io/), [Storybook](https://storybook.js.org/), [CraftCMS](https://craftcms.com/), [Stencil](https://stenciljs.com/), and [Twig](https://twig.symfony.com/) just to name a few. Their emphasis on accessibility had me work closely with a [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) expert, making sure that applications met [WCAG 2.0](https://www.w3.org/TR/WCAG20/) accessibility standards.
 
+### The future (2024 - ?)
+__Next steps__. I'm currently open for work! I am interested in either working for a company that has an in-house product or staying in the field of web agencies. My work experience has taught me to adapt quickly to a new environment and new teams, to pick up technologies on the go while maintaining rigorous work quality, and to always be curious and open-minded.
+
 ## :phone: Contact
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/felix-rioux-sabourin/), or [through email](mailto:felixriouxsabourin@gmail.com)
