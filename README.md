@@ -17,7 +17,7 @@ I am a [Lighthouse Labs](https://www.lighthouselabs.ca/) graduate (February 2020
 ## 💻 Work History
 
 ### [Webisoft](https://webisoft.com/) (2020 - 2021) - React.js Developer
-__Humble beginnings__.
+__Where it all started__.
 After graduating from Lighthouse Labs in April 2020, I landed a job at Webisoft, a small web agency startup based in Montréal. I was tasked to maintain, and build all of their [React.js](https://react.dev/) applications, which involved working on a long-standing app, an app which was just about ready to launch, and a new app in its infancy. The small size of the company and the different scopes for each project meant I had to learn how to adapt to a new environment quickly and independently.  
 
 ### [Nventive](https://nventive.com/en/) (2021 - 2022) - Web Developer
