@@ -2,7 +2,7 @@
 
 ## :pushpin: Summary
 
-My name is Felix (He/Him). With over four years of experience in front-end development, I am a dynamic professional and an arts-oriented individual captivated by the transformative power of programming to bring ideas to life. I have contributed to over a dozen client projects across a wide range of industries, and I always have a passion project ongoing.
+My name is Felix (He/Him). With over four years of experience in web development, I am a dynamic professional and an arts-oriented individual captivated by the transformative power of programming to bring ideas to life. I have contributed to over a dozen client projects across a wide range of industries, and I always have a passion project ongoing.
 
 I am passionate about coding and always seek new ways to improve my craft. I love to work in tight-knit teams and find extreme satisfaction in finding a great solution to a challenging problem.
 
@@ -12,7 +12,7 @@ You can often find me on the dance floor at [Cat's Corner Swing Dance School](ht
 
 ## :rocket: Web development 
 
-I am a [Lighthouse Labs](https://www.lighthouselabs.ca/) graduate (February 2020 cohort), who has since been working full-time as a front-end React.js developer. I am constantly teaching myself new skills, such as [Next.js](https://nextjs.org/), [GraphQL](https://graphql.org/), [ReactNative](https://reactnative.dev/), and much more through online tutorials and personal projects. You can find in this GitHub most of what I've been working on in my personal time.
+I am a [Lighthouse Labs](https://www.lighthouselabs.ca/) graduate (February 2020 cohort), who has since been working full-time as a web developer. I am constantly teaching myself new skills, such as [Next.js](https://nextjs.org/), [GraphQL](https://graphql.org/), [ReactNative](https://reactnative.dev/), and much more through online tutorials and personal projects. You can find in this GitHub most of what I've been working on in my personal time.
 
 ## 💻 Work History
 
