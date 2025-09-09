@@ -2,9 +2,11 @@
 
 ## :pushpin: Summary
 
-My name is Felix (He/Him). With over four years of experience in web development, I am a dynamic professional and an arts-oriented individual captivated by the transformative power of programming to bring ideas to life. I have contributed to over a dozen client projects across a wide range of industries, and I always have a passion project ongoing.
+With over five years of experience in front-end development, I am a dynamic professional and an arts-oriented individual captivated by the transformative power of programming to bring ideas to life. The first four years of my career were spent working for agencies, and I have contributed to over a dozen client projects across a wide range of industries.
 
-I am passionate about coding and always seek new ways to improve my craft. I love to work in tight-knit teams and find extreme satisfaction in finding a great solution to a challenging problem.
+Since November of 2024, I have been working full time to build an in-house SaaS as a consultant web development engineer, using my expertise to create a one of a kind service in the field of supply chains.
+
+I thrive working in tight-knit teams, and am most satisfied when find a great solution to a challenging problem. Being in a state of flow while coding is what I love most about being a dev.
 
 ## :video_game: Interests and hobbies
 
@@ -29,6 +31,9 @@ __Flexibility & Quality__. I was recruited at the beginning of 2022 to work for 
 
 ### Independent (2024 - Today) - Freelance Web Developer
 __Independance & Reliability__. I have been working as a freelance web developer since April 2024, building static websites as well as web applications. As an independent dev, I have been putting my skills to the test while working on and contributing to a couple of projects such as Rue Dorion, TimeStep, MontrealSwingCalendar, Campus Balboa, and MTL BAL JAM. I have been using technologies such as Next.js and Gatsby.js for static website generation, coupled with Contentful as a headless CMS. For web applications with a dedicated backend, I have collaborated with an AWS engineer using Node.js, AppSync, Amplify, and Cognito, in GraphQL. My focus has been learning as much as I can while working on these projects, making sure to keep up with current techs and taking Udemy courses on the side.
+
+### Traceology.ai (2024 - Today) - Consultant Web Development Engineer
+__Scalability & Strength__. I have been working as a web development engineer consultant at Traceology.ai since November of 2024. It is a startup that has an in-house product which aims to provide more transparency in the field of supply chains. This is a niche product that is currently in high demand partly due to geopolitical reasons. The sheer amount of data that is required for supply chain planners and analysts for this app to be useful creates many challenges and requires creative solutions. Working in a tight-knit team makes this product especially fun to work on: seamless teamwork coupled with a strong communication is crucial for everything to go smoothly.
 
 ### The future (2024 - ?)
 __Next steps__. I'm currently open for work! I am interested in either working for a company that has an in-house product or staying in the field of web agencies. My work experience has taught me to adapt quickly to a new environment and new teams, to pick up technologies on the go while maintaining rigorous work quality, and to always be curious and open-minded.
